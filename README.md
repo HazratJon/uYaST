@@ -1,7 +1,11 @@
 # uYaST
 Universal Yet another System Toolkit
+inspired by openSUSE very powerful YaST
+
+uYaST is cross-platform -> **MacOS (Intel and M Chips), Windows 7-11, Linux. Unix (BSDs)**
+
 
 Ayoo
-have fun chat!
+Have fun chat!
 
 -HazratJon
